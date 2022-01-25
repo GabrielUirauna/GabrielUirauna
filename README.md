@@ -15,14 +15,6 @@
 <br />
 <br />
 
-### 🌌 Steam
-
-* **Valor:** $60
-* **Jogos que tenho:** 15
-* **Jogos jogados:** 10 *(66.666666666667%)*
-* **Horas:** 346h 08m
----
-
 [website]: https://infinityevolved.online
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/moreiraffx
