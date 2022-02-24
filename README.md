@@ -26,4 +26,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-![snake gif](https://github.com/GabrielUirauna/GabrielUirauna/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/GabrielUirauna/GabrielUirauna/blob/output/github-contribution-grid-snake.svg)
