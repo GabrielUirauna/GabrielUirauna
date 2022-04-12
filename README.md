@@ -25,6 +25,12 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUirauna&theme=dark&show_icons=true)
+<details>
+    <br>
+      <summary>💻 Most used Languages</summary>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUirauna&theme=dark&show_icons=true)
+</details>
+
+
 
 ![snake gif](https://github.com/GabrielUirauna/GabrielUirauna/blob/output/github-contribution-grid-snake.svg)
