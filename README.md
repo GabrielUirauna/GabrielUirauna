@@ -25,6 +25,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUirauna)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUirauna?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/GabrielUirauna/GabrielUirauna/blob/output/github-contribution-grid-snake.svg)
