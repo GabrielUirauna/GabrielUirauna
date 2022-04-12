@@ -1,3 +1,5 @@
+<div align=center>
+
 ### Olá, meu nome é Gabriel, tenho 16 anos e sou estudante do ensino médio
 
 ## Sou estudante, busco aprender mais sobre programação.
