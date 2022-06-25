@@ -1,8 +1,5 @@
 <div align=center>
 
-### Olá, meu nome é Gabriel, tenho 16 anos e sou estudante do ensino médio
-
-## Sou estudante, busco aprender mais sobre programação.
 - 🌱 Aprendendo Lua, JavaScript, Html & CSS
 
 ### 📸 Redes Sociais:
@@ -20,7 +17,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/moreiraffx
 [youtube]: https://www.youtube.com/channel/UCOZgdRzEiTvJLKsSRIakoWg
-[instagram]: https://instagram.com/gabrielm07._
+[instagram]: https://instagram.com/gabrielmso._
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
