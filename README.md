@@ -30,8 +30,5 @@
             <img src="https://github-readme-stats.vercel.app/api?username=GabrielUirauna&theme=dark&show_icons=true" />
 </details>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
-
 
 ![snake gif](https://github.com/GabrielUirauna/GabrielUirauna/blob/output/github-contribution-grid-snake.svg)
